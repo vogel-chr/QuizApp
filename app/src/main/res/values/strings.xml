@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Baby First Aid for Parents</string>
+    <string name="headline">"What this is:"</string>
+    <string name="app_intro">"Basically a help to refresh your memory about some crucial things that can save your baby's life.\n    This is not a fully fledged or definitive first aid course. For that you need to consult professional and personal advice, practice the actions with dummies and so on.\n    A smart phone app or an online course cannot provide you with the practical knowledge needed to save lives.\n    But they can help. And that is exactly what this Baby First Aid for Parents QuizApp is trying to do by asking you some (potentially) vital questions."</string>
+    <string name="start_quiz">Start Quiz</string>
+
+    <!-- strings for QuizIntro.java -->
+    <string name="headline_quiz_intro">How this quiz works:</string>
+    <string name="quiz_intro">"For each of a total of nine questions you'll see four possible answers. At least one of them is correct, but more often than not there are more than just one correct answers. And there are questions where all four answers are correct.\n    You pick all the answers which you think of as correct. Then you click the button below the answers and the app will  tell you immediately, if your choice of answers is correct or not. If not you will be redirected to the question and your answer(s) to reconsider.\n    There are no points involved. You cannot rate the survival of your baby. It is a Yes-or-No-matter &#8212; ok, exaggerating here &#8230; but it is, isn't it?"</string>
+    <string name="intro_next_question">Question 1</string>
+
+    <!-- Global strings for Questions -->
+    <string name="title_correct_answer">"Well done."</string>
+    <string name="correct_answer">"Everything correct. Proceed to next question."</string>
+    <string name="wrong_answer">"Sorry. Your choice of answers is not correct."</string>
+    <string name="q_a1_wrong">"The first answer is wrong." </string>
+    <string name="q_a2_wrong">"The second answer is wrong." </string>
+    <string name="q_a3_wrong">"The third answer is wrong." </string>
+    <string name="q_a4_wrong">"The fourth answer is wrong." </string>
+    <string name="forgotten_answer">There are more correct answers.</string>
+    <string name="reconsider">"Please reconsider."</string>
+    <string name="goBack">"Back"</string>
+    <string name="nextQuestion">"Next Question"</string>
+    <string name="title_activity_question_one">Question One</string>
+
+    <!-- Strings for QuestionOne.java -->
+    <string name="headline_question_1">How to place your baby in the recovery position?</string>
+    <string name="answer_1_q_1">"Cradle her/him in your arms."</string>
+    <string name="answer_2_q_1">"Hold the baby upside down."</string>
+    <string name="answer_3_q_1">"Hold the baby so the head is tilted slightly downwards."</string>
+    <string name="answer_4_q_1">"Hug the baby and cuddle."</string>
+    <string name="question_1_next_question">Question 2</string>
+    <string name="title_activity_question_two">Question Two</string>
+
+    <!-- Strings for QuestionTwo.java -->
+    <string name="headline_question_2">How to open the baby’s airway?</string>
+    <string name="answer_1_q_2">Place one hand on the baby’s forehead and gently tilt the head back.</string>
+    <string name="answer_2_q_2">Place one hand on the baby’s head and gently tilt it forward.</string>
+    <string name="answer_3_q_2">Place your other hand on the baby’s chest and push gently.</string>
+    <string name="answer_4_q_2">Place one fingertip of your other hand on the point of the baby’s chin.</string>
+    <string name="question_2_next_question">Question 3</string>
+    <string name="title_activity_question_three">Question Three</string>
+
+    <!-- Strings for QuestionThree.java -->
+    <string name="headline_question_3">What to do if your baby is choking?</string>
+    <string name="answer_1_q_3">Slap it out! Give up to five back blows between their shoulder blades with the heel of your hand.</string>
+    <string name="answer_2_q_3">Pick it out! Carefully pick out any obvious objects with your fingertips.</string>
+    <string name="answer_3_q_3">Squeeze it out! Using two fingers, give up to five downward chest thrusts.</string>
+    <string name="answer_4_q_3">Hurl it out! Grab your baby by the legs and turn until your throws up the object.</string>
+    <string name="question_3_next_question">Question 4</string>
+    <string name="title_activity_question_four">Question Four</string>
+
+    <!-- Strings for QuestionFour.java -->
+    <string name="headline_question_4">What to do if your baby if your baby has fever or high temperature above 37°C/98.6°F?</string>
+    <string name="answer_1_q_4">Check temperature ideally using an electronic thermometer placed under the armpit or a digital ear thermometer.</string>
+    <string name="answer_2_q_4">Bathe your baby in cold water to bring down the temperature.</string>
+    <string name="answer_3_q_4">Make them comfortable: don’t overdress them or remove too much clothing.</string>
+    <string name="answer_4_q_4">Give them regular drinks: if they are breastfed, feed them regularly. If your baby is no longer breastfeeding, you can offer them water to drink.</string>
+    <string name="question_4_next_question">Question 5</string>
+    <string name="title_activity_question_five">Question Five</string>
+
+    <!-- Strings for QuestionFive.java -->
+    <string name="headline_question_5">What are possible symptoms for seizures in babies?</string>
+    <string name="answer_1_q_5">Vigorous shaking with clenched fists and an arched back.</string>
+    <string name="answer_2_q_5">Twitching of their face and squinting, fixed or upturned eyes.</string>
+    <string name="answer_3_q_5">Holding their breath, with a red, puffy face and neck, and drooling at the mouth.</string>
+    <string name="answer_4_q_5">Possible vomiting and loss of control of their bowel or bladder.</string>
+    <string name="question_5_next_question">Question 6</string>
+    <string name="title_activity_question_six">Question Six</string>
+
+    <!-- Strings for QuestionSix.java -->
+    <string name="headline_question_6">What to do in case your baby has a seizure?</string>
+    <string name="answer_1_q_6">Put your baby into the recovery position.</string>
+    <string name="answer_2_q_6">Fix your baby with a blanket or pillow to protect her/him from hurting herself/himself.</string>
+    <string name="answer_3_q_6">Put pillows around your baby: protect your baby from hurting herself/himself, but don’t restrain her/him or try to move them.</string>
+    <string name="answer_4_q_6">When the seizure has stopped, remove any excess clothing or bedding, or open a window to cool your baby down to a sensible temperature.</string>
+    <string name="question_6_next_question">Question 7</string>
+    <string name="title_activity_question_seven">Question Seven</string>
+
+    <!-- Strings for QuestionSeven.java -->
+    <string name="headline_question_7">What are possible symptoms of hypothermia?</string>
+    <string name="answer_1_q_7">Body temperature below 35°C/95°F.</string>
+    <string name="answer_2_q_7">Shivering, cold, pale, and dry skin.</string>
+    <string name="answer_3_q_7">Slow and shallow breathing.</string>
+    <string name="answer_4_q_7">Slow and weakening pulse.</string>
+    <string name="question_7_next_question">Question 8</string>
+    <string name="title_activity_question_eight">Question Eight</string>
+
+    <!-- Strings for QuestionEight.java -->
+    <string name="headline_question_8">What to do in case your baby shows symptoms of hypothermia?</string>
+    <string name="answer_1_q_8">Let your baby take a bath in water of medium temperature to slowly raise the body temperature.</string>
+    <string name="answer_2_q_8">Warm her/him up! Get your baby inside, give her/him something warm to drink, cover her/him with layers of blankets.</string>
+    <string name="answer_3_q_8">Find something for them to lie on to protect them from the cold ground.</string>
+    <string name="answer_4_q_8">If their clothes are wet, change them into dry clothes, if possible. Put them in a sleeping bag and cover them with blankets, if available.</string>
+    <string name="question_8_next_question">Question 9</string>
+    <string name="title_activity_question_nine">Question Nine</string>
+
+    <!-- Strings for QuestionNine.java -->
+    <string name="headline_question_9">How to perform CPR (cardiopulmonary resuscitation) on your baby?</string>
+    <string name="answer_1_q_9">Chest compression: Place two fingertips of your lower hand on the center of the baby’s chest. Press down vertically on the breastbone, and press the chest down by at least one-third of its depth. Release the pressure and allow the chest to come back up. Do this at a rate of about twice a second. Performing this 30 times in a row is one sequence of chest compression and follows two sequences of rescue breath.</string>
+    <string name="answer_2_q_9">Rescue Breath: Clear and open your baby’s airway, take a breath in, place your lips around the baby’s mouth. Blow into the mouth until the chest rises. Remove your mouth and allow the chest to fall. Performing this three times in a row is one sequence of rescue breath. Three sequences of rescue breath follow up on chest compression.</string>
+    <string name="answer_3_q_9">Chest compression: Place your fingertips of your lower hand on the center of the baby’s chest. Press down vertically on the breastbone, and press the chest down by at least one-fourth of its depth. Release the pressure and allow the chest to come back up. Do this at a rate of about once a second. Performing this 40 times in a row is one sequence of chest compression and is followed by three sequences of rescue breath.</string>
+    <string name="answer_4_q_9">Rescue Breath: Clear and open your baby’s airway, take a breath in, place your lips around the baby’s mouth and nose to form an airtight seal. Blow steadily into the mouth until the chest rises. Remove your mouth and allow the chest to fall. Performing this five times in a row is one sequence of rescue breath. Two sequences of rescue breath is followed by chest compression.</string>
+    <string name="question_9_next_screen">Proceed to summary</string>
+    <string name="title_activity_next_screen">End Screen</string>
+    <string name="nextScreenSummary">"Summary"</string>
+    <string name="correct_answer_last_Question">"Everything correct. This was the last question."</string>
+
+    <!-- Strings for EndScreen.java -->
+    <string name="headline_end_screen">Congratulations! You worked through all the questions successfully.</string>
+    <string name="summary">"All in all you only made "</string>
+    <string name="question_me_again">Question Me Again</string>
+    <string name="mistakes">" mistakes."</string>
+
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.android.quizapp.QuestionOne">
+
+    <LinearLayout
+        android:id="@+id/QuestionLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/headline_question_1"
+            android:theme="@style/QuestionTextView"
+            android:textAllCaps="false" />
+
+        <CheckBox
+            android:id="@+id/check_Box_Q_1_A_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/answer_1_q_1"
+            android:paddingLeft="24dp"
+            android:textSize="16sp"/>
+
+        <CheckBox
+            android:id="@+id/check_Box_Q_1_A_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/answer_2_q_1"
+            android:paddingLeft="24dp"
+            android:textSize="16sp"/>
+
+        <CheckBox
+            android:id="@+id/check_Box_Q_1_A_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/answer_3_q_1"
+            android:paddingLeft="24dp"
+            android:textSize="16sp"/>
+
+        <CheckBox
+            android:id="@+id/check_Box_Q_1_A_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/answer_4_q_1"
+            android:paddingLeft="24dp"
+            android:textSize="16sp"/>
+
+        <Button
+            android:id="@+id/questionTwo"
+            android:text="@string/question_1_next_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:theme="@style/MyButton"
+            android:layout_margin="16dp"
+            android:onClick="questionTwo"/>
+
+    </LinearLayout>
+
+</ScrollView>
